@@ -1,4 +1,4 @@
-# NBA Players Stats Dataset Sample
+# NBA Players Stats データセットサンプル
 
 <h2>1,000件のレコードからなるサンプルデータセット</h2>
 
