@@ -1,54 +1,54 @@
 # NBA Players Stats Dataset Sample
 
-<h2>A sample dataset of 1,000 records</h2>
+<h2>1,000件のレコードからなるサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/NBA-Players-Stats-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **NBA Players Stats Dataset Sample** includes **1,000 records** and was extracted using the **Bright Data API**.
+この **NBA Players Stats Dataset Sample** には **1,000件のレコード** が含まれており、**Bright Data API** を使用して抽出されています。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The ESPN URL linking directly to the player's profile page for detailed information. |
-| `player_name` | The full name of the NBA player. |
-| `player_games_played` | Total number of games the player has participated in during the season. |
-| `player_games_started` | Total number of games the player started in the season. |
-| `player_minutes_per_game` | Average minutes played per game by the player. |
-| `player_points_per_game` | Average points scored per game by the player. |
-| `player_offensive_rebounds__per_game` | Average number of offensive rebounds per game. |
-| `player_defensive_rebounds_per_game` | Average number of defensive rebounds per game. |
-| `player_rebounds_per_game` | Average total rebounds per game by the player. |
-| `player_assists_per_game` | Average assists made per game by the player. |
-| `player_steals_per_game` | Average steals per game by the player. |
-| `player_blocks_per_game` | Average blocks per game by the player. |
-| `player_turnovers_per_game` | Average turnovers per game by the player. |
-| `player_fouls_per_game` | Average fouls committed per game by the player. |
-| `player_assist_to_turnover_ratio` | Ratio of assists to turnovers for the player. |
-| `team` | The NBA team the player is associated with for the season. |
-| `season_type` | Indicates whether the data is from the regular season or playoffs. |
-| `season_year` | The year of the NBA season the statistics are from. |
+| `url` | 詳細情報のために選手のプロフィールページへ直接リンクするESPNのURLです。 |
+| `player_name` | NBA選手のフルネームです。 |
+| `player_games_played` | シーズン中に選手が出場した試合の総数です。 |
+| `player_games_started` | シーズン中に選手が先発出場した試合の総数です。 |
+| `player_minutes_per_game` | 選手の1試合あたりの平均出場時間（分）です。 |
+| `player_points_per_game` | 選手の1試合あたりの平均得点です。 |
+| `player_offensive_rebounds__per_game` | 1試合あたりの平均オフェンシブリバウンド数です。 |
+| `player_defensive_rebounds_per_game` | 1試合あたりの平均ディフェンシブリバウンド数です。 |
+| `player_rebounds_per_game` | 選手の1試合あたりの平均総リバウンド数です。 |
+| `player_assists_per_game` | 選手の1試合あたりの平均アシスト数です。 |
+| `player_steals_per_game` | 選手の1試合あたりの平均スティール数です。 |
+| `player_blocks_per_game` | 選手の1試合あたりの平均ブロック数です。 |
+| `player_turnovers_per_game` | 選手の1試合あたりの平均ターンオーバー数です。 |
+| `player_fouls_per_game` | 選手の1試合あたりの平均ファウル数です。 |
+| `player_assist_to_turnover_ratio` | 選手のアシストに対するターンオーバーの比率です。 |
+| `team` | シーズンにおいて選手が所属するNBAチームです。 |
+| `season_type` | データがレギュラーシーズン由来かプレーオフ由来かを示します。 |
+| `season_year` | 統計の対象となるNBAシーズンの年です。 |
 
 
 ## Use Cases
 
 ### 1. Player Performance Analysis
-Analyze individual player performance over various seasons to identify top performers and improve team strategies.
+複数シーズンにわたる個々の選手パフォーマンスを分析し、トップパフォーマーを特定してチーム戦略の改善に役立てます。
 
 ### 2. Fantasy Basketball Insights
-Use historical player stats to generate insights for fantasy basketball leagues, aiding in player selection and predictions.
+過去の選手スタッツを活用してファンタジーバスケットボールリーグ向けのインサイトを生成し、選手選定や予測に役立てます。
 
 ### 3. Sports Journalism and Reporting
-Provide in-depth statistical analysis for sports articles, enhancing reporting with data-driven insights on player performances.
+スポーツ記事向けに詳細な統計分析を提供し、選手パフォーマンスに関するデータドリブンなインサイトで報道内容を強化します。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で利用可能です:
+- **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -68,8 +68,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます:
+- **Once**（単発の配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -78,14 +78,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+特定の要件に基づいて追加のデータポイントでデータセットを拡充できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full NBA Players Stats dataset](https://brightdata.com/products/datasets/sports/nba)**
+**[Get the full NBA Players Stats dataset](https://brightdata.jp/products/datasets/sports/nba)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiative は、環境および社会的課題に取り組む学術研究者、NGO、NPOに対して、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)** と **[ready-to-use datasets](https://brightdata.jp/products/datasets)** への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+無料アクセスは [brightinitiative.com](https://brightinitiative.com) からお申し込みください。
